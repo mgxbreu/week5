@@ -1,0 +1,53 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "gameId": 1,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "body": "Lorem Ipsum",
+      "gameId": 1,
+      "userId": 1
+    },
+    {
+      "body": "sdsd",
+      "user": 1,
+      "gameId": 1,
+      "userId": 1,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "7705-8031"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "0100-6595"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "nathan@yesenia.net",
+      "phone": "4463-4447"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "julianne.oconner@kory.org",
+      "phone": "4933-9625"
+    }
+  ]
+}
